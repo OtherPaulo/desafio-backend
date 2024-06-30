@@ -1,3 +1,6 @@
+# Desafio Nestjs Backend
+
+Este é o projeto backend desenvolvido usando o framework Nest.js. O projeto utiliza o PostgreSQL como banco de dados e possui documentação e testes das APIs disponíveis via Swagger.
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
